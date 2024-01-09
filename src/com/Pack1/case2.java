@@ -23,3 +23,4 @@ public class case2
 		new case2().meth1("e");
 	}
 }
+// commit added
